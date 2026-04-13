@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Feed",
+    "rss": "https://rss.app/feeds/yourfeed.xml",
+    "webhook": "YOUR_WEBHOOK_URL_HERE",
+    "lastItem": ""
+  }
+]
